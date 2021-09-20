@@ -1,0 +1,41 @@
+#lab_class {
+  color:#708ff1;
+  padding-left: 700px;
+}
+#first_row{
+  background-color: #aaaaaa;
+  color: #ffffff;
+}
+#second_row,#third_row,#fourth_row,#fifth_row{
+  background-color: #f0f0f0;
+  font-size: 14px;
+  font-style:normal;
+  font-family: "Time New Roman"
+}
+#main_table{
+  width: 100%;
+}
+.sides{
+  background-color: #fffcb1;
+  width: 2.8%;
+}
+.table_CSS{
+  float:left;
+  width: 40%;
+  padding-left: 50px;
+  padding-top: 150px;
+}
+.img_CSS{
+  float:right;
+  width:400px;
+  height: 350px;
+  padding-right:150px;
+  margin: 7px 7px 7px 7px;
+}
+.Student{
+  float:left;
+  padding-left: 500px;
+}
+.lore{
+  padding-top: 300px;
+}
