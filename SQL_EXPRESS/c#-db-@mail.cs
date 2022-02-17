@@ -18,8 +18,8 @@ namespace SYBD_PRUD
         public DataSet ds;
         public SqlDataAdapter adapter;
         public SqlCommandBuilder commandBuilder;
-        string connectionString = @"Data Source=name of PC;Initial Catalog=name of catalog;Integrated Security=True";
-        string sql = "SELECT * FROM catalog of sql_ex ORDER BY id";
+        string connectionString = @"Data Source=*PC name*;Initial Catalog=*Catalog name*;Integrated Security=True";
+        string sql = "SELECT * FROM *Table name* ORDER BY *type of sort*";
         public Form1()
         {
             InitializeComponent();
